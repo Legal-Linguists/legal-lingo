@@ -1,39 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
+    <title>Word Counts</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Word Counts</title>
-    <!-- Displaying the word counts using Flask where word_counts_json is a dict converted to JSON -->
-    <!-- We just simply display the word counts in a table -->
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            text-align: left;
-            padding: 8px;
-        }
-        tr:nth-child(even){background-color: #f2f2f2}
-        th {
-            background-color: #4CAF50;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <tr>
-            <th>Word</th>
-            <th>Count</th>
-        </tr>
-        <!-- use Jinja to display the word counts in a table -->
-        {% for word, count in word_counts_json.items() %}
-            <tr>
-                <td>{{ word }}</td>
-                <td>{{ count }}</td>
-            </tr>
-        {% endfor %}
-    </table>
-</html>
+    </head>
+    <body>
+        <p id="response"></p>
+        <script>
+            var message = null;
+            function ajaxCallToServer() {
+                var responseText = document.getElementById('response');
+                var xmlhttp = new XMLHttpRequest();
+                var url = "/display-word-counts";
+                xmlhttp.open("POST", url, true);
+                xmlhttp.setRequestHeader("Content-type", "application/json");
+                xmlhttp.onload = (res) => {
+                    console.log(res['target']['response']);
+                    message = res['target']['response'];
+                    responseText.innerHTML = message;
+                };
+                xmlhttp.send();
+            }
+            ajaxCallToServer();
+            </script>
+    </body>
