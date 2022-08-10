@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/LegalLingo'),
+      dir: require('path').join(__dirname, './coverage/Legal-Lingo-Website-v2'),
       subdir: '.',
       reporters: [
         { type: 'html' },
