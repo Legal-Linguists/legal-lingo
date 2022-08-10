@@ -70,7 +70,7 @@ def upload_file():
             # this is so that we can always find the name of the most recently uploaded file
             with open(LAST_UPLOAD, 'w') as f:
                 f.write(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            return redirect(url_for('display_word_counts', name=filename))
+            return redirect(url_for('display_word_counts'))
     return render_template('upload_file.html')
 
 @app.route('/display-word-counts', methods=['GET', 'POST'])
