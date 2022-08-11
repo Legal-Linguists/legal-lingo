@@ -14,14 +14,14 @@ LAST_UPLOAD = 'last_upload.txt'
 
 # Create the Flask app.
 app = Flask(__name__)
-app.secret_key = "super secret key"
+app.secret_key = "6c4114e5-49e5-7e61-2cd5-98d898d2a9a2:fx"
 # from https://flask.palletsprojects.com/en/2.1.x/patterns/fileuploads/
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 def count_words(file_location):
     '''Return a dictionary of word counts for each word in the file.'''
     # Open the file.
-    with open(file_location, 'r') as f:
+    with open(file_location, 'r', encoding='unicode_escape') as f:
         # Read the file.
         text = f.read()
         # Split the text into words.

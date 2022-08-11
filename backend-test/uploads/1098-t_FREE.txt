@@ -1,0 +1,148 @@
+Attention:
+"Copy A of this form is provided for informational purposes only. Copy A appears in red,"
+similar to the official IRS form. The official printed version of Copy A of this IRS form is
+"scannable, but the online version of it, printed from this website, is not. Do not print and file"
+copy A downloaded from this website; a penalty may be imposed for filing with the IRS
+information return forms that can’t be scanned. See part O in the current General
+"Instructions for Certain Information Returns, available at www.irs.gov/form1099, for more"
+information about penalties.
+"Please note that Copy B and other copies of this form, which appear in black, may be"
+downloaded and printed and used to satisfy the requirement to provide the information to
+the recipient.
+"To order official IRS information returns, which include a scannable Copy A for filing with"
+"the IRS and all other applicable copies of the form, visit www.IRS.gov/orderforms. Click on"
+"Employer and Information Returns, and we’ll mail you the forms you request and their"
+"instructions, as well as any publications you may order."
+Information returns may also be filed electronically using the IRS Filing Information Returns
+Electronically (FIRE) system (visit www.IRS.gov/FIRE) or the IRS Affordable Care Act
+Information Returns (AIR) program (visit www.IRS.gov/AIR).
+"See IRS Publications 1141, 1167, and 1179 for more information about printing these tax"
+forms.
+,,,8383,,VOID,,CORRECTED,,,,,,,,,,,
+"FILER'S name, street address, city or town, state or province, country, ZIP or",,,,,,,,1 Payments received for,,,,,OMB No. 1545-1574,,,,,
+"foreign postal code, and telephone number",,,,,,,,,qualified tuition and related,,,,,,,,,
+,,,,,,,,,expenses,,,,,,,,,
+,,,,,,,,$,,,,,2016,,,,Tuition,
+,,,,,,,,2 Amounts billed for,,,,,,,,,Statement,
+,,,,,,,,,qualified tuition and,,,,,,,,,
+,,,,,,,,,related expenses,,,,,,,,,
+,,,,,,,,$,,,,,,Form 1098-T,,,,
+FILER'S federal identification no.,,,,STUDENT'S taxpayer identification no.,,,,3 Check if you have changed your,,,,,,,,,,Copy A
+,,,,,,,,,reporting method for 2016,,,,,,,,,
+,,,,,,,,,,,,,,,,,,For
+STUDENT'S name,,,,,,,,4 Adjustments made for a,,,,,5 Scholarships or grants,,,Internal Revenue,,
+,,,,,,,,,prior year,,,,,,,Service Center,,
+,,,,,,,,$,,,,,$,,,File with Form 1096.,,
+Street address (including apt. no.),,,,,,,,6 Adjustments to,,,,,7 Check this box if the,,,For Privacy Act and,,
+,,,,,,,,,scholarships or grants,,,,,amount in box 1 or 2,,,,
+,,,,,,,,,for a prior year,,,,,includes amounts for,,Paperwork Reduction,,
+"City or town, state or province, country, and ZIP or foreign postal code",,,,,,,,,,,,,,an academic period,,"Act Notice, see the",,
+,,,,,,,,,,,,,,beginning January — ,,,2016 General ,
+,,,,,,,,$,,,,,,March 2017 ▶,,,Instructions for ,
+Service Provider/Acct. No. (see instr.),,,,,8 Check if at least,,,9 Check if a graduate ,,,,,10 Ins. contract reimb./refund,,,Certain Information ,,
+,,,,,half-time student,,,,student,.,.,.,.,,,,,Returns.
+,,,,,,,,,,,,,$,,,,,
+Form 1098-T,,,,Cat. No. 25087J,,,,,www.irs.gov/form1098t,,,,,Department of the Treasury - Internal Revenue Service,,,,
+Do,Not,Cut,or,Separate,Forms,on,This,Page,—,Do,Not,Cut,or,Separate,Forms,on,This,Page
+,CORRECTED,,,,,,
+"FILER'S name, street address, city or town, state or province, country, ZIP or",,1 Payments received for,,,,OMB No. 1545-1574,
+"foreign postal code, and telephone number",,qualified tuition and related,,,,,
+,,expenses,,,,,
+,,$,,,,2016,Tuition
+,,2 Amounts billed for,,,,,Statement
+,,qualified tuition and,,,,,
+,,related expenses,,,,,
+,,$,,,,Form 1098-T,
+FILER'S federal identification no.,STUDENT'S taxpayer identification no.,"3 If this box is checked, your educational institution",,,,,Copy B
+,,has changed its reporting method for 2016,,,,,
+,,,,,,,For Student
+STUDENT'S name,,4 Adjustments made for a,,,,5 Scholarships or grants,
+,,,,,,,This is important
+,,prior year,,,,,
+,,,,,,,tax information
+,,,,,,,and is being
+,,$,,,,$,furnished to the
+Street address (including apt. no.),,6 Adjustments to,,,,7 Checked if the amount ,Internal Revenue
+,,scholarships or grants,,,,in box 1 or 2 includes,Service. This form
+,,for a prior year,,,,amounts for an academic,must be used to
+"City or town, state or province, country, and ZIP or foreign postal code",,,,,,period beginning January,complete Form 8863
+,,,,,,— March 2017 ▶,to claim education
+,,$,,,,,credits. Give it to the
+Service Provider/Acct. No. (see instr.),8 Check if at least,9 Checked if a graduate,,,,10 Ins. contract reimb./refund,tax preparer or use it to
+,half-time student,student,.,.,.,.,prepare the tax return.
+,,,,,,$,
+Form 1098-T,(keep for your records),www.irs.gov/form1098t,,,,Department of the Treasury - Internal Revenue Service,
+Instructions for Student,,Box 3. Shows whether your institution changed its method of reporting for 2016. It has
+,,changed its method of reporting if the method (payments received or amounts billed)
+"You, or the person who can claim you as a dependent, may be able to claim an education",,used for 2016 is different than the reporting method used for 2015. You should be
+credit on Form 1040 or Form 1040A. This statement has been furnished to you by an,,aware of this change in figuring your education credits.
+"eligible educational institution in which you are enrolled, or by an insurer who makes",,Box 4. Shows any adjustment made for a prior year for qualified tuition and related 
+reimbursements or refunds of qualified tuition and related expenses to you. This statement,,expenses that were reported on a prior year Form 1098-T. This amount may reduce any
+is required to support any claim for an education credit. Retain this statement for your,,allowable education credit that you claimed for the prior year (may result in an increase in
+"records. To see if you qualify for a credit, and for help in calculating the amount of your",,tax liability for the year of the refund). See “recapture” in the index to Pub. 970 to report a
+"credit, see Pub. 970, Form 8863, and the Form 1040 or 1040A instructions.",,reduction in your education credit or tuition and fees deduction.
+"Your institution must include its name, address, and information contact telephone",,Box 5. Shows the total of all scholarships or grants administered and processed by 
+number on this statement. It may also include contact information for a service provider.,,the eligible educational institution. The amount of scholarships or grants for the 
+Although the filer or the service provider may be able to answer certain questions about the,,calendar year (including those not reported by the institution) may reduce the amount 
+"statement, do not contact the filer or the service provider for explanations of the",,of the education credit you claim for the year.
+requirements for (and how to figure) any education credit that you may claim.,,TIP: You may be able to increase the combined value of an education credit and certain
+"Student's taxpayer identification number (TIN). For your protection, this form may show",,educational assistance (including Pell Grants) if the student includes some or all of the
+"only the last four digits of your SSN, ITIN, ATIN, or EIN. However, the issuer has reported",,"educational assistance in income in the year it is received. For details, see Pub. 970."
+"your complete TIN to the IRS. Caution: If your TIN is not shown in this box, your school",,Box 6. Shows adjustments to scholarships or grants for a prior year. This amount may
+was not able to provide it. Contact your school if you have questions.,,affect the amount of any allowable tuition and fees deduction or education credit that
+Account number. May show an account or other unique number the filer assigned to,,you claimed for the prior year. You may have to file an amended income tax return
+distinguish your account.,,(Form 1040X) for the prior year.
+Caution: Education credits may only be claimed for qualified tuition and related expenses,,Box 7. Shows whether the amount in box 1 or 2 includes amounts for an academic 
+that were actually paid in 2016. Institutions may report either payments received during the,,period beginning January—March 2017. See Pub. 970 for how to report these amounts.
+calendar year in box 1 or amounts billed during the calendar year in box 2 and they may,,Box 8. Shows whether you are considered to be carrying at least one-half the normal
+change their reporting method as reported in box 3.,The amount shown in box 1 or box 2,full-time workload for your course of study at the reporting institution.
+may represent an amount other than the amount actually paid in 2016.,,Box 9. Shows whether you are considered to be enrolled in a program leading to a graduate
+Box 1. Shows the total payments received in 2016 from any source for qualified tuition and ,,"degree, graduate-level certificate, or other recognized graduate-level educational credential."
+related expenses less any reimbursements or refunds made during 2016 that relate to,,Box 10. Shows the total amount of reimbursements or refunds of qualified tuition and
+those payments received during 2016.,,related expenses made by an insurer. The amount of reimbursements or refunds for
+Box 2. Shows the total amounts billed in 2016 for qualified tuition and related expenses less ,,the calendar year may reduce the amount of any education credit you can claim for
+any reductions in charges made during 2016 that relate to those amounts billed during 2016.,,the year (may result in an increase in tax liability for the year of the refund).
+,VOID,CORRECTED,,,,,,
+"FILER'S name, street address, city or town, state or province, country, ZIP or",,1 Payments received for,,,,,OMB No. 1545-1574,
+"foreign postal code, and telephone number",,qualified tuition and related,,,,,,
+,,expenses,,,,,,
+,,$,,,,,2016,Tuition
+,,2 Amounts billed for,,,,,,Statement
+,,qualified tuition and,,,,,,
+,,related expenses,,,,,,
+,,$,,,,,Form 1098-T,
+FILER'S federal identification no.,STUDENT'S taxpayer identification no.,3 Check if you have changed your,,,,,,Copy C
+,,reporting method for 2016,,,,,,
+,,,,,,,,For Filer
+STUDENT'S name,,4 Adjustments made for a,,,,,5 Scholarships or grants,
+,,prior year,,,,,,
+,,,,,,,,For Privacy Act and
+,,$,,,,,$,Paperwork
+Street address (including apt. no.),,6 Adjustments to,,,,,7 Check this box if the,Reduction Act
+,,scholarships or grants,,,,,amount in box 1 or 2,"Notice, see"
+,,for a prior year,,,,,includes amounts for,the 2016 General 
+"City or town, state or province, country, and ZIP or foreign postal code",,,,,,,an academic period,Instructions for 
+,,,,,,,beginning January — ,
+,,$,,,,,,Certain Information 
+,,,,,,,March 2017 ▶,
+,,,,,,,,Returns.
+Service Provider/Acct. No. (see instr.),8 Check if at least,9 Check if a graduate ,,,,,10 Ins. contract reimb./refund,
+,half-time student,student,.,.,.,.,$,
+Form 1098-T,www.irs.gov/form1098t,,,,,,Department of the Treasury - Internal Revenue Service,
+Instructions for Filer,
+"To complete Form 1098-T, use:","File Copy A of this form with the IRS by February 28,"
+,"2017. If you file electronically, the due date is March 31,"
+• the 2016 General Instructions for Certain Information,"2017. To file electronically, you must have software that"
+"Returns, and",generates a file according to the specifications in Pub.
+• the 2016 Instructions for Forms 1098-E and1098-T.,1220. The IRS does not provide a fill-in form option.
+"To order these instructions and additional forms, go",Caution: By checking the box in STUDENT'S taxpayer
+to www.irs.gov/form1098t.,"identification no., you are making a true and accurate"
+Caution: Because paper forms are scanned during ,certification under penalty of perjury that you have
+"processing, you cannot file Forms 1096, 1097, 1098,",complied with standards promulgated by the Secretary
+"1099, 3921, 3922, or 5498 that you download and print",for obtaining such individual's TIN.
+from the IRS website.,Need help? If you have questions about reporting on 
+Due dates. Furnish Copy B of this form to the student ,"Form 1098-T, call the information reporting customer "
+"by January 31, 2017. For information on furnishing Form",service site toll free at 1-866-455-7438 or 304-263-8700
+"1098-T electronically, see the separate Specific ",(not toll free). Persons with a hearing or speech
+Instructions for Form 1098-T.,disability with access to TTY/TDD equipment can call
+,304-579-4827 (not toll free).
