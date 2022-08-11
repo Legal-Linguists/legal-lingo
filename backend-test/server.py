@@ -92,7 +92,7 @@ def Translate():
 
     doc1 = open("uploads/1098-.txt", "r")
 
-    auth_key = "6155b4e1-0259-6e8f-2e92-e3439f845696:fx"  # Replace with your key
+    auth_key = "supersecret"  # Replace with your key
     translator = deepl.Translator(auth_key)
 
     result = translator.translate_text("Hello, world!", target_lang="ES")
