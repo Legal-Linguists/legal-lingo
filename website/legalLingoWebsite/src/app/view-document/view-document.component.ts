@@ -8,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class ViewDocumentComponent implements OnInit {
 
   constructor() { }
-
+  viewTranslate(){
+    window.location.href = 'view-translation'
+  }
   ngOnInit(): void {
   }
 

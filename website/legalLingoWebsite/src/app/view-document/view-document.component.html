@@ -1,8 +1,7 @@
-<h1>View document</h1>
-<div style="margin-left:20%">
-    <pdf-viewer [src]="rent.pdf"
-    [render-text]="true"
-    [original-size]="false"
-    style="width: 400px; height: 500px"
-></pdf-viewer>
-</div>
+<mat-card >
+    <mat-card-title>Your document</mat-card-title>
+    <button mat-raised-button (click)="viewTranslate()">View Translation</button>
+    <div style="margin-left:20%;padding-top: 10%;">
+        <img  mat-card-image class=image src="assets/presentation.png">
+    </div>    
+</mat-card>

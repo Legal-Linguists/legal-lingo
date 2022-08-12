@@ -14,13 +14,19 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatTabsModule} from '@angular/material/tabs';
 import { ViewDocumentComponent } from './view-document/view-document.component';
 import { PdfViewerModule } from 'ng2-pdf-viewer';
+import { ViewTranslationComponent } from './view-translation/view-translation.component';
+import {MatFormFieldModule} from '@angular/material/form-field';
+import { FormsModule, ReactiveFormsModule} from '@angular/forms';
+import { MatInputModule } from '@angular/material/input';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     LandingPageComponent,
     UploadDocumentComponent,
-    ViewDocumentComponent
+    ViewDocumentComponent,
+    ViewTranslationComponent
   ],
   imports: [
     BrowserModule,
@@ -33,6 +39,11 @@ import { PdfViewerModule } from 'ng2-pdf-viewer';
     MatToolbarModule,
     MatTabsModule,
     PdfViewerModule,
+    MatFormFieldModule,
+    FormsModule,
+    ReactiveFormsModule,
+    MatInputModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]

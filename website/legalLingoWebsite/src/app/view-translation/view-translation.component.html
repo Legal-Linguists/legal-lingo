@@ -1,0 +1,42 @@
+<form [formGroup] ='spaceFormGroup'>
+
+<mat-card >
+    <mat-card-title>Your document</mat-card-title>
+    <div style="padding-top:5em" class="row">
+        <div class="column">
+            <div fxLayout="column">
+                <img mat-card-image class=image src="assets/translateddoc.png">
+                <div fxLayout="row" style="padding-left:15em">
+                    <button mat-raised-button>Previous page</button>
+                    <button mat-raised-button>Next page</button>
+                </div>
+                            
+            </div>
+        </div>
+
+        <div class="column">
+            <div fxLayout="column">
+                <div>
+            <mat-form-field appearance="standard">
+                <mat-label>Term</mat-label>
+                <input matInput readonly formControlName="termControl">
+              </mat-form-field>
+            </div>
+            <div>
+              <mat-form-field appearance="standard">
+                <mat-label>Definition</mat-label>
+                <textarea readonly matInput formControlName="defControl" 
+                cdkTextareaAutosize
+                cdkAutosizeMinRows="6">
+                </textarea>
+              </mat-form-field>
+            </div>
+            </div>
+            <mat-card-actions fxLayout="row">
+                <button mat-raised-button>Previous term</button>
+                <button mat-raised-button (click)="nextTerm()">Next term</button>
+            </mat-card-actions>
+        </div>
+    </div> 
+</mat-card>
+</form>
